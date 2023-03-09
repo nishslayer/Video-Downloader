@@ -1,5 +1,4 @@
 Site Flow
-Open url: http://54.193.48.44:8085/
  - This url will display add video form
  	- Currently mp4 videos will be supported
  - Add details and then submit
